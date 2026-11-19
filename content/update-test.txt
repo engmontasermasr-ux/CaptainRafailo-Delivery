@@ -1,0 +1,3 @@
+Captain Rafailo public update delivery connection test
+Revision: test-001
+This file does not change game behaviour.
