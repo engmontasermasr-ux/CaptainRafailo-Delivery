@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "revision": "test-001",
+  "files": [
+    {
+      "path": "content/update-test.txt",
+      "url": "https://engmontasermasr-ux.github.io/CaptainRafailo-Delivery/content/update-test.txt",
+      "sha256": "bbe2103a4ab258e14ea929b3210e9a14491449445d56e6057713b6a62a9e8974",
+      "size": 116
+    }
+  ]
+}
